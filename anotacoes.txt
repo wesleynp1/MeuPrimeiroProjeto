@@ -1,0 +1,5 @@
+Comandos git:
+> git init //na raiz do projeto cria a pasta oculta .git com tudo para executar os comandos git
+> git add *ARQUIVO* //adiciona um arquivo ao projeto(pode se usar --all)
+> git commit // comitar(-m para add comentários)
+> git remote add origin https://github.com/wesleynp1/MeuPrimeiroProjeto.git
