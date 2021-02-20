@@ -5,5 +5,5 @@ Comandos git:
 > git remote add origin https://github.com/wesleynp1/MeuPrimeiroProjeto.git
 > git pull
 
-esta edição esta sendo feita atráves do GitHub no meu navegador
-esta alteração foi feita sem linha de comando
+Esta edição esta sendo feita atráves do GitHub no meu navegador
+Esta alteração foi feita sem linha de comando direto do VScode.
